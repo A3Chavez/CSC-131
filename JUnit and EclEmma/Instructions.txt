@@ -1,0 +1,15 @@
+ You may work collaboratively in a team and make only one submission. Only one student in your group need submit. Please mention (list) all your team member names in the submission comments box.
+
+However, please make sure every student does the lab on their own laptop as well so that you practice thoroughly.
+
+Students are allowed to submit individually as well. If you are submitting individually though you are part of a group please email me your attachment by Canvas email with clear information on the Subject line of the email.
+
+Files you need: 
+
+    GiftCard.java download
+    Eclipse_Eclemma.pdf 
+	Lab03_worksheet.docx
+
+Follow instructions in Lab03_worksheet, and answer all questions.
+
+Deliverable: A PDF version of your completed worksheet.

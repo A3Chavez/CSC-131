@@ -1,0 +1,17 @@
+Instructions: Lab_Instructions_ GUI Construction.pdf
+
+This is a team assignment. This assignment is very important to see how some design patterns were already applied in the Java language classes that Java Swing provides for GUI programming. This is for your own practice.  Submission is enough to get full points. This practice will help you with your team project as well. Please feel free to collaborate. Please make only one submission. Only one student for your group need submit. Please enter names of all students in the submission comments box. It is every student's responsibility to fully run the lab on their laptop/machine even though only one student will be submitting.
+
+Please download the following java files (right click the file, and "save the link as"):
+
+CashMachine.java download
+
+NumberPad.java download
+
+PINPadWindow.java download
+
+Deliverable:
+
+1. Screenshots of the interfaces you created. Save them in jpg format.
+
+2. A zip file including all java source code.
