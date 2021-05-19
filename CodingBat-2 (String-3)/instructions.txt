@@ -1,0 +1,20 @@
+In this assignment, you will continue to work on CodingBat. The detailed instructions is as follows:
+
+This exercise will be useful to process strings for the Project.
+
+1. Visit https://codingbat.com/ (Links to an external site.), sign up an account if you don't have one.
+
+2. Go to "prefs" at the upper right corner, type the instructor's email (jagannadha.chidella@csus.edu) in the field next to "Share to" at "Teacher Share" section. (If you don't share your progress with me, I cannot give you credits based on the work you have completed.)
+
+3. On the same page, type your Sac State email "Section #, SP21" in the "Memo" field. For example, "genos@csus.edu, Section 1, SP21". 
+
+4. Go to Java coding page: https://codingbat.com/java (Links to an external site.), and try to solve as many String-3 problems as you can. 
+
+Your grade will be given based on the number of problems you completely solved with 100% test cases passed. To get full credits (50 pts), at least 5 String-3 problems should be solved.
+
+5. Also if possible only make sure for one of the problems, you do it in Eclipse or your IDE and submit two debug screen shots  in PDF format. Do this only if you know to use Eclipse. Or if you can do debugger lab.
+
+Tips for success:
+
+    Start early.
+    Try to solve one problem per day. Make it an incremental development :-)

@@ -1,0 +1,11 @@
+In this assignment, you will try to solve as many CodingBat problems as you can. The detailed instructions is as follows:
+
+1. Visit https://codingbat.com/ (Links to an external site.)Links to an external site., sign up an account if you don't have one.
+
+2. Go to "prefs" at the upper right corner, type the instructor's email (Jagannadha.Chidella@csus.edu) in the field next to "Share to" at "Teacher Share" section. (If you don't share your progress with me, I cannot give you credits based on the work you have completed.)
+
+3. On the same page, type your Sac State email + "Section #, FL20" in the "Memo" field. For example, "genos@csus.edu, Section 1, FL20". 
+
+4. Go to Java coding page: https://codingbat.com/java (Links to an external site.)Links to an external site., and try to solve as many AP-1 problems as you can. 
+
+Your grade will be given based on the number of problems you completely solved with 100% test cases passed. To get full credits (50 pts), at least 3 AP-1, 1 Functional-1 and 1 Functional-2 problems should be solved. Of course, please feel free to try other types of problems, such as String, Array, Logic, etc.
