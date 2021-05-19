@@ -1,0 +1,25 @@
+Dear students,
+
+Please note the updated instructions:
+
+You may start doing this assignment after we learn the fork/join principle in Activity diagrams.
+
+You may work in your teams for this assignment to discuss and share ideas.  Submit individually.  Submit one document with the diagram. Download Microsoft Visio (or Lucid Chart or Draw.io). Using Visio or equivalent for the assignment will help you be professional. If you were unable to download yet, please do so ASAP. Please export your diagram in PDF and submit.  If you are still unable to download Visio or equivalent tool by the due date, you may submit a camera picture of your diagram very neatly (dark  and legible) done on paper. However, all future assignments will require Visio or equivalent UML drawing tool. You may use a lab to access Visio if you own a Mac or a non-Windows OS.
+
+Problem description:
+
+(You may use any of the following: Decision, Merge, Fork, Join, Action, Object and any other nodes. The more the better. :)
+
+(i) You have green, red and blue marbles in a single box. The marbles are sorted in the following way by color. One marble is picked at a time from this box, the color of the marble is checked and placed in a green box if it is green, blue box if it is blue and red box if it is red. This process continues until all marbles have been placed in the respective boxes. The marbles are picked in sequence one after another. 
+
+ ***After this step, the marbles in each box are counted and each box is labeled with the color and count.  This task is done in parallel for each of the boxes. ****
+
+The three boxes are then placed in the garage. Assume placing the sorted boxes in the garage is a single task. (Note, the counting is NOT done while sorting the colors).
+
+(ii) Modify the counting to happen while picking each color marble from the single box and provide a different version of the original diagram as well.
+
+(iii) What do you propose to do if three people can pick one marble each simultaneously from the initial single box? Only provide an answer to this problem. No diagram is required.
+
+cheers,
+
+Jagan

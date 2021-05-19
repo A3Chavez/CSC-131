@@ -1,0 +1,9 @@
+Watch the video on UML Class and Sequence diagrams (from the slides folder) to understand UML Class and Sequence Diagrams. The video is very comprehensive.
+
+1. Instructions: HW03- Class Diagrams.docx
+
+Deliverable: Please create a zip file with all your source code packages in it, and submit it through Canvas.
+
+ 
+
+2. Draw Sequence Diagrams for Activity Diagram home work assignments that you had completed. 

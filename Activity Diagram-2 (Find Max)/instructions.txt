@@ -1,0 +1,19 @@
+Task:
+
+Draw an activity diagram describing an algorithm for finding the top two maximum values in a list. The input is the list, and output is the top two maximum values.
+
+Hints:
+
+    Make your own assumptions
+    Design/choose the algorithm first, then model it with an activity diagram
+    Include appropriate level of detail in your model
+
+How to draw your model:
+
+Option 1: You may draw your model on paper, take a picture of it.
+
+Option 2:  Use instructions provided in Announcement to use Visio, or Lucid Chart of Draw.io
+
+Deliverable:
+
+In a PDF file, include the algorithm (in pseudocode) you chose, the assumptions you made, and your model. Submit the PDF file in Canvas.

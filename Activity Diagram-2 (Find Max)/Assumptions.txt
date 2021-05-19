@@ -1,0 +1,19 @@
+Assumptions:
+- List contains only whole positive integer values (i.e. i > 0)
+- List is finite and unsorted
+- List may contain duplicates
+- List is not empty, at least 2 elements exist
+- First and second element will be used for Max1 and Max2, respectively
+	- Max1 is the largest value
+	- Max2 is the second largest value
+	- If Max1 = Max2 when initializing
+		- This problem should fix itself if any element in the list satisfies the
+		  Max1 or Max2 condition(s)
+		- If still same when outputting results, same Max1 and Max2 values implies
+		  there was only one maximum value in the List
+- When looping:
+	- Max1 condition is check first
+	- Max2 condition(s) is/are check second
+	- else: Max1 and Max2 not updated
+- Must loop through List only one time
+- Left to the reader to implement code
